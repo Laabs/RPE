@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/window.png</file>
+        <file>res/prompt.png</file>
+        <file>res/condition.png</file>
+        <file>res/coreparts.png</file>
+        <file>res/environment.png</file>
+        <file>res/model.png</file>
+        <file>res/prediction.png</file>
+        <file>res/华科校徽.png</file>
+        <file>res/华科校名.png</file>
+        <file>res/help.png</file>
+        <file>res/backgrand.jpg</file>
+    </qresource>
+</RCC>
